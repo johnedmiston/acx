@@ -99,3 +99,7 @@ The script now works as expected:
 - Stops reading once the `"BatchCommand finished: OK"` marker is detected.
 
 Debugging complete!
+
+## 3/17/2025
+
+Further research conducted. Resource for existing python script that removes spaced between clips :https://pypi.org/project/audacity-scripting/#description
